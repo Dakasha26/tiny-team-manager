@@ -1,0 +1,17 @@
+.Icon {
+
+}
+
+.rightIcon {
+    width: 80px;
+    float: right;
+    margin: auto
+}
+.back {
+    background-color: darkgray;
+    border: none;
+    text-align: left;
+    font-size: 16px;
+    margin: auto;
+    width: 70px;
+}
